@@ -1,7 +1,7 @@
 ![data-science](https://github.com/user-attachments/assets/26c404eb-d74c-4685-be4f-760c81e44510)
 
 
-# Prediction-of-product-sales
+# Prediction of product sales
 
 
 ## Analyzing Product sale to help a sales prediction for food items sold at various stores.
