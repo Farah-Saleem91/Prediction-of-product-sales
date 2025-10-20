@@ -4,7 +4,7 @@
 # Prediction of product sales
 
 
-## Analyzing Product sale to help a sales prediction for food items sold at various stores.
+## Analyzing Product sale to help a sales prediction for different items sold at various stores.
 
 ### The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
