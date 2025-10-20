@@ -35,4 +35,28 @@ link : https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
     for example the item wight 12.5 is the most frequent weight for the items
 ---
 
+# Model
 
+## linear regression model
+Regression Metrics: Test Data
+------------------------------------------------------------
+- MAE = 765.671
+- MSE = 1,213,934.180
+- RMSE = 1,101.787
+- R^2 = 0.560
+## RandomForest model
+Regression Metrics: Test Data
+------------------------------------------------------------
+- MAE = 734.606
+- MSE = 1,118,768.607
+- RMSE = 1,057.719
+- R^2 = 0.594
+
+# Recommendations:
+
+
+
+# Limitations & Next Steps
+
+# For further information
+For any additional questions, please contact farah.saleem1991@outlook.com
