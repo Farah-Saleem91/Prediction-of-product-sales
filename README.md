@@ -1,7 +1,7 @@
 ![data-science](https://github.com/user-attachments/assets/26c404eb-d74c-4685-be4f-760c81e44510)
 
 
-# Prediction of Product Sales
+# Prediction of Product Sales 
 
 
 
@@ -33,3 +33,6 @@ link : https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 
     for example the item wight 12.5 is the most frequent weight for the items
+---
+
+
