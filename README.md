@@ -21,13 +21,13 @@ By combining these two dimensions, the project provides insights into what drive
 ---
 ## 🧰 Tech Stack
 
-Languages: Python
+- Languages: Python
 
-Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn.
+- Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn.
 
-Modeling Techniques: Linear Regression, Random Forest.
+- Modeling Techniques: Linear Regression, Random Forest.
 
-Tools:  Google Colab, GitHub.
+- Tools:  Google Colab, GitHub.
 
 ---
 
@@ -47,18 +47,16 @@ Tools:  Google Colab, GitHub.
 
 - Model training, tuning, and evaluation
 
-## 📈 Model Results
+## 🧪 Model Results
+#### Regression Metrics
 
-Regression Metrics
-
-------------------------------------------------------------
 - MAE = 765.671
 - MSE = 1,213,934.180
 - RMSE = 1,101.787
 - R^2 = 0.560
-  -
-RandomForest model
-------------------------------------------------------------
+  
+#### RandomForest model
+
 - MAE = 734.606
 - MSE = 1,118,768.607
 - RMSE = 1,057.719
@@ -67,17 +65,17 @@ RandomForest model
 - Hyperparameter tuning reduced overfitting and improved generalization performance.
  
 
-## 🖼️ Visuals
+# 🖼️ Visuals
 Generated interpretable insights for business decision-making
 ---
-### Count plot for Item Type
+### 📊 Count plot for Item Type
 -fruits and vegetables generate the highest sales 2.82 millions (%15.2) followed by 'snack foods' 2.7 millions(%14.7)
 -High sales indicate high demand
 
 
 <img width="616" height="556" alt="ff'" src="https://github.com/user-attachments/assets/75fc5cb4-df97-49a5-ba80-da2762fb2d80" />
 
-### Scatter Plot for Price VS Sales
+### 📊 Scatter Plot for Price VS Sales
 
 Moderate Positive Correlation (r = 0.57):
 
@@ -89,7 +87,7 @@ Some high-priced items achieve very high sales, showing strong market demand for
 
 <img width="558" height="393" alt="item mrp" src="https://github.com/user-attachments/assets/c93fad37-c2da-4997-a701-b0f716c35aa3" />
 
-### Pie Chart For Outlet Size
+### 📊 Pie Chart For Outlet Size
 This pie chart shows the proportion of total sales coming from outlets of different sizes: Small, Medium, and High.
 
 Medium-sized outlets contribute the largest share of sales, making up 52.7% of the total.
@@ -117,14 +115,16 @@ The chart above highlights the most influential features identified by the **Ran
 Feature importance measures how much each variable contributed to reducing prediction error during training.
 
 
-# 📌 Recommendations:
+## 📌 Recommendations:
+
 - Optimize Pricing Strategy by Analyze price sensitivity of different types. we might find some products can bear higher prices without reducing demand. i believe this will lead to obvious increase in Sales
+  
 - Don't assume cheap means better-selling — some higher-priced items perform very well.
 
--Explore what drives sales in the higher price bands: branding, packaging, outlet location, promotions?
+- Explore what drives sales in the higher price bands: branding, packaging, outlet location, promotions?
 
--Use this insight to optimize pricing strategy — you may be able to increase prices without hurting sales, depending on the product type.
--Consider strategies like improving inventory, marketing, and customer experience tailored to medium outlets.this will lead to huge increase in Sales
+- Use this insight to optimize pricing strategy — you may be able to increase prices without hurting sales, depending on the product type.
+- Consider strategies like improving inventory, marketing, and customer experience tailored to medium outlets.this will lead to huge increase in Sales
 
-# For further information
+## For further information
 For any additional questions, please contact farah.saleem1991@outlook.com
